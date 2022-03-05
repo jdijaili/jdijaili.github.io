@@ -50,16 +50,6 @@ const Header = () => {
               <li>
                 <a href="#contact">Contact</a>
               </li>
-              <li>
-                <a
-                  className="white-fill-bg btn-outline btn_sm"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  href="https://themeforest.net/item/shane-react-personal-portfolio-template/32642263"
-                >
-                  Buy Now
-                </a>
-              </li>
             </Scrollspy>
           </div>
           {/* End menu */}
@@ -125,16 +115,6 @@ const Header = () => {
                 <li>
                   <a href="#contact" onClick={handleClick}>
                     Contact
-                  </a>
-                </li>
-                <li>
-                  <a
-                    className="white-fill-bg btn-outline btn_sm"
-                    target="_blank"
-                    rel="noreferrer"
-                    href="https://themeforest.net/"
-                  >
-                    Buy Now
                   </a>
                 </li>
               </ul>

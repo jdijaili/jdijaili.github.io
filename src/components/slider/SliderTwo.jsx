@@ -9,9 +9,8 @@ const Slider = () => {
           <div
             className="image"
             style={{
-              backgroundImage: `url(${
-                process.env.PUBLIC_URL + "img/slider/2.jpg"
-              })`,
+              backgroundImage: `url(${process.env.PUBLIC_URL + "img/slider/2.jpg"
+                })`,
             }}
           ></div>
         </div>
@@ -21,14 +20,17 @@ const Slider = () => {
           <div className="content">
             <div className="name_wrap">
               <h3>
-                <span>Mrs</span> Iqra<span className="overlay_effect"></span>
+                <span>Jennifer</span> <span className="overlay_effect"></span>
               </h3>
             </div>
+            <h3>
+              Dijaili <span className="overlay_effect"></span>
+            </h3>
             {/* End title */}
 
             <div className="job_wrap">
               <span className="job">
-                Ui & Ux Designer
+                Full Stack Software Engineer
                 <span className="overlay_effect"></span>
               </span>
             </div>
