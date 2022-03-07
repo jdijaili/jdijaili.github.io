@@ -23,9 +23,10 @@ const Header = () => {
       <div className="shane_tm_topbar">
         <div className={navbar ? "topbar_inner opened" : "topbar_inner"}>
           <div className="logo">
-            <NavLink to="/">
+            {/* <NavLink to="/">
               <img src="/img/logo/new/dark.png" alt="partners brand" />
-            </NavLink>
+            </NavLink> */}
+            <h3>Jennifer Dijaili</h3>
           </div>
           {/* End logo */}
           <div className="menu">
