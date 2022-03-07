@@ -35,7 +35,7 @@ const AboutTwo = () => {
                   data-aos-duration="1200"
                 >
                   <span>About Me</span>
-                  <h3>Creative Ui & Ux Designer based in New York, USA</h3>
+                  <h3> Creative Full Stack Software Engineer based in the Bay Area</h3>
                 </div>
                 <div
                   className="text"
@@ -43,11 +43,12 @@ const AboutTwo = () => {
                   data-aos-duration="1200"
                 >
                   <p>
-                    I'm web designer, and I'm very passionate and dedicated to
-                    my work. With 20 years experience as a professional web
-                    developer, I have acquired the skills and knowledge
-                    necessary to make your project a success. I enjoy every step
-                    of the design process, from discussion and collaboration.
+                    I'm a full stack software engineer with a passion to improve
+                    the lives of the community and those around me. As a pharmacist, I've
+                    strived to identify solutions that produce immediate results as well as contributing
+                    to long term outcomes. I will continue to carry those values with me as a software
+                    engineer using my knowledge of Javascipt, Python, React/Redux to
+                    positively contribute to our community.
                   </p>
                 </div>
                 <div
