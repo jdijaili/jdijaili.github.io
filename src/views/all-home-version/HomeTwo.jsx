@@ -29,7 +29,7 @@ const HomeTwo = () => {
       <Skills />
       {/* End Skills Section */}
 
-      <div className="shane_tm_section">
+      {/* <div className="shane_tm_section">
         <div className="shane_tm_partners">
           <div className="container">
             <div className="partners_inner">
@@ -37,7 +37,7 @@ const HomeTwo = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
 
       <CallToAction />
       {/* End CallToAction */}
