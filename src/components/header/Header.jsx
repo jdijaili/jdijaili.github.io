@@ -46,7 +46,7 @@ const Header = () => {
                 <a href="#portfolio">Portfolio</a>
               </li>
               <li>
-                <a href="#news">Skills</a>
+                <a href="#skills">Skills</a>
               </li>
               <li>
                 <a href="#contact">Contact</a>
@@ -109,7 +109,7 @@ const Header = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#news" onClick={handleClick}>
+                  <a href="#skills" onClick={handleClick}>
                     Skills
                   </a>
                 </li>
