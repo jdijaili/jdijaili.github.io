@@ -44,7 +44,7 @@ const SkillsTwo = () => {
 
                   <div className="progress_inner">
                     <span>
-                      <span className="label">ORM/RBMS</span>
+                      <span className="label">ORM/RDBMS</span>
                     </span>
                     <div className="background">
                       <div className="bar">
