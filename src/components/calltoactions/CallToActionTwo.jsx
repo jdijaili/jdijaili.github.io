@@ -77,7 +77,8 @@ const CallToActionTwo = () => {
               <div className="wrapper">
                 <div className="left">
                   <div className="fields">
-                    <Contact />
+                    {/* <Contact /> */}
+                    <h2>Feel free to contact me via email or LinkedIn!</h2>
                   </div>
                 </div>
                 {/* End left */}

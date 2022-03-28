@@ -56,8 +56,8 @@ const AboutTwo = () => {
                   data-aos="fade-up"
                   data-aos-duration="1200"
                 >
-                  <a href="img/resume/resume.jpg" download>
-                    Download CV
+                  <a href="img/resume/Jennifer-Dijaili-Resume.pdf" download>
+                    Resume
                   </a>
                 </div>
               </div>
